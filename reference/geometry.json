@@ -1,0 +1,2556 @@
+{
+ "proteins": {
+  "integrin": {
+   "x0": 151,
+   "x1": 175,
+   "top": 227,
+   "bottom": 343.5
+  },
+  "glycoprotein": {
+   "x0": 194,
+   "x1": 222,
+   "top": 247,
+   "bottom": 336
+  },
+  "enzyme": {
+   "x0": 349,
+   "x1": 395,
+   "top": 247,
+   "bottom": 342
+  },
+  "k_channel": {
+   "x0": 539,
+   "x1": 587,
+   "top": 247,
+   "bottom": 336,
+   "pore": [
+    556,
+    570
+   ]
+  },
+  "na_k_pump": {
+   "x0": 635,
+   "x1": 697,
+   "top": 243,
+   "bottom": 341
+  },
+  "cotransporter": {
+   "x0": 753,
+   "x1": 803,
+   "top": 247,
+   "bottom": 336
+  },
+  "proton_pump": {
+   "x0": 861,
+   "x1": 907,
+   "top": 245,
+   "bottom": 339
+  },
+  "peripheral": {
+   "x0": 285,
+   "x1": 325,
+   "top": 321.0,
+   "bottom": 339.0
+  }
+ },
+ "phospholipids": [
+  {
+   "x": 140.5,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 140.5,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 184.5,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 184.5,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 231.75,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 231.75,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 255.44,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 255.44,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 269.88,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 269.88,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 284.31,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 284.31,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 298.75,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 298.75,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 313.19,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 313.19,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 327.62,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 327.62,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 342.06,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 342.06,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 402.11,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 402.11,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 416.72,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 416.72,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 431.33,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 431.33,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 445.94,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 445.94,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 460.56,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 460.56,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 475.17,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 475.17,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 489.78,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 489.78,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 504.39,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 504.39,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 528.75,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 528.75,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 595.25,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 595.25,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 611.0,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 611.0,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 626.75,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 626.75,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 703.7,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 703.7,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 717.9,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 717.9,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 732.1,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 732.1,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 746.3,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 746.3,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 810.1,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 810.1,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 824.7,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 824.7,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 839.3,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 839.3,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 853.9,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 853.9,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 913.83,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 913.83,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 928.17,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 928.17,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 948.83,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 948.83,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  },
+  {
+   "x": 963.17,
+   "leaflet": "outer",
+   "head_y": 267,
+   "tail_from": 273.5,
+   "tail_to": 290.5
+  },
+  {
+   "x": 963.17,
+   "leaflet": "inner",
+   "head_y": 316.0,
+   "tail_from": 309.5,
+   "tail_to": 292.5
+  }
+ ],
+ "cholesterol": [
+  {
+   "x": 245,
+   "leaflet": "outer",
+   "body": [
+    276.0,
+    287.0
+   ],
+   "oh_y": 273.0
+  },
+  {
+   "x": 245,
+   "leaflet": "inner",
+   "body": [
+    296.0,
+    307.0
+   ],
+   "oh_y": 310.0
+  },
+  {
+   "x": 515,
+   "leaflet": "outer",
+   "body": [
+    276.0,
+    287.0
+   ],
+   "oh_y": 273.0
+  },
+  {
+   "x": 515,
+   "leaflet": "inner",
+   "body": [
+    296.0,
+    307.0
+   ],
+   "oh_y": 310.0
+  },
+  {
+   "x": 938.5,
+   "leaflet": "outer",
+   "body": [
+    276.0,
+    287.0
+   ],
+   "oh_y": 273.0
+  },
+  {
+   "x": 938.5,
+   "leaflet": "inner",
+   "body": [
+    296.0,
+    307.0
+   ],
+   "oh_y": 310.0
+  }
+ ],
+ "touch": {
+  "taper_left": {
+   "start_outer": [
+    130.0,
+    274.3
+   ],
+   "start_inner": [
+    130.0,
+    308.7
+   ],
+   "end_outer": [
+    65.8,
+    351.5
+   ],
+   "end_inner": [
+    74.2,
+    351.5
+   ]
+  },
+  "taper_right": {
+   "start_outer": [
+    970.0,
+    274.3
+   ],
+   "start_inner": [
+    970.0,
+    308.7
+   ],
+   "end_outer": [
+    1034.2,
+    351.5
+   ],
+   "end_inner": [
+    1025.8,
+    351.5
+   ]
+  },
+  "integrin_fibronectin_collagen": {
+   "head_top": 227,
+   "fibronectin_bottom": 227.8,
+   "fibronectin_top": 199.06805390860515,
+   "collagen_strand_y_at_end": 199.86805390860516
+  },
+  "glycoprotein_chain": {
+   "bead0_bottom": 246.5,
+   "protein_top": 247,
+   "chain_top": 211.0,
+   "side": "outside"
+  },
+  "glycolipid_chain": {
+   "x": 269.88,
+   "bead0_bottom": 260.0,
+   "head_top": 260.5,
+   "side": "outside",
+   "leaflet": "outer"
+  },
+  "peripheral": {
+   "top": 321.0,
+   "inner_surface": 322.5,
+   "heads_above": [
+    298.75,
+    313.19
+   ]
+  },
+  "integrin_actin": {
+   "leg_bottom": 343.5,
+   "actin_top": 342.5
+  },
+  "phago_bacterium": {
+   "x": [
+    191,
+    239
+   ],
+   "y": [
+    718,
+    742
+   ],
+   "cup": {
+    "inner_x": [
+     182,
+     248
+    ],
+    "inner_bottom": 750,
+    "cup_top": 710,
+    "tips_x": [
+     206,
+     224
+    ],
+    "outer_bottom": 768
+   }
+  },
+  "lysosome_fusion": {
+   "vacuole": [
+    285,
+    525
+   ],
+   "r": 32,
+   "lysosome": [
+    315,
+    498
+   ],
+   "rl": 16,
+   "overlap": 7.64,
+   "inside_cell": true
+  },
+  "waste_exocytosis": {
+   "bulb": [
+    395,
+    668.2967069115099
+   ],
+   "open_to": "outside"
+  },
+  "rme": {
+   "pit_center_x": 640,
+   "deep_pit": [
+    728,
+    658.9231903791894
+   ],
+   "vesicle": [
+    728,
+    576
+   ],
+   "clathrin_side": "cytoplasm",
+   "receptor_side": "outside/lumen"
+  },
+  "exocytosis1": {
+   "golgi": [
+    900,
+    512
+   ],
+   "fusing": [
+    842,
+    671.2522729151325
+   ],
+   "open_to": "outside"
+  }
+ },
+ "gradients": {
+  "O2": {
+   "outside": 9,
+   "inside": 2,
+   "high": "outside",
+   "moves": "in"
+  },
+  "K_channel": {
+   "outside": 2,
+   "inside": 7,
+   "high": "inside",
+   "moves": "out"
+  },
+  "Na_pump": {
+   "outside_na": "high",
+   "inside_na": "low",
+   "na_moves": "out",
+   "outside_k": "low",
+   "inside_k": "high",
+   "k_moves": "in",
+   "atp_side": "inside"
+  },
+  "cotransport": {
+   "outside_na": "high",
+   "inside_na": "low",
+   "na_moves": "in",
+   "outside_glucose": "low",
+   "inside_glucose": "high",
+   "glucose_moves": "in"
+  },
+  "proton_pump": {
+   "outside": 9,
+   "inside": 1,
+   "high": "outside",
+   "moves": "out",
+   "atp_side": "inside"
+  }
+ },
+ "arrows": {
+  "enzyme_in": "M 347,365 Q 358,352 367,333",
+  "enzyme_out1": "M 376,336 Q 382,362 398,373",
+  "enzyme_out2": "M 379,334 Q 394,350 407,356",
+  "o2": "M 472,160 L 472,390",
+  "k_channel": "M 563,390 L 563,162",
+  "nak_na": "M 652,388 L 652,168",
+  "nak_k": "M 680,168 L 680,388",
+  "co_na": "M 767,168 L 767,388",
+  "co_glucose": "M 789,224 L 789,388",
+  "proton_pump": "M 884,388 L 884,162",
+  "phago_1_2": "M 211,683 L 192,639",
+  "phago_2_3": "M 200,570 L 259,551",
+  "phago_3_4": "M 303,557 L 338,579",
+  "waste_out": "M 409,694 L 409,718",
+  "phago_4_5": "M 368,642 L 386,645.2967069115099",
+  "pino_1_2": "M 484,660 Q 498,638 517,661.2010101267766",
+  "pino_2_3": "M 545,637.2010101267766 L 545,624",
+  "rme_1_2": "M 658,646 Q 672,626 690,642.9231903791894",
+  "rme_2_3": "M 768,644.9231903791894 Q 780,620.9231903791894 768,596",
+  "hormone_out": "M 915,684 L 915,713",
+  "exo_1_2": "M 909,577 L 882,603",
+  "exo_2_3": "M 863,634 L 848,652.2522729151325"
+ },
+ "labels": [
+  {
+   "text": "The Plasma Membrane: Structure &amp; Transport",
+   "x": 550,
+   "y": 66,
+   "size": 24,
+   "color": "#263238",
+   "weight": 800
+  },
+  {
+   "text": "Name: ______________",
+   "x": 1058,
+   "y": 64,
+   "size": 11,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "OUTSIDE THE CELL",
+   "x": 80,
+   "y": 98,
+   "size": 12.5,
+   "color": "#0277BD",
+   "weight": 800
+  },
+  {
+   "text": "(extracellular fluid)",
+   "x": 80,
+   "y": 111,
+   "size": 10.5,
+   "color": "#0277BD",
+   "weight": 600
+  },
+  {
+   "text": "INSIDE THE CELL (cytoplasm)",
+   "x": 560,
+   "y": 476,
+   "size": 13,
+   "color": "#E65100",
+   "weight": 800
+  },
+  {
+   "text": "OUTSIDE THE CELL (extracellular fluid)",
+   "x": 700,
+   "y": 801,
+   "size": 12.5,
+   "color": "#0277BD",
+   "weight": 800
+  },
+  {
+   "text": "Collagen fibers",
+   "x": 80,
+   "y": 140,
+   "size": 11,
+   "color": "#5D4037",
+   "weight": 700
+  },
+  {
+   "text": "(extracellular matrix, ECM)",
+   "x": 80,
+   "y": 152,
+   "size": 10,
+   "color": "#5D4037",
+   "weight": 400
+  },
+  {
+   "text": "Fibronectin",
+   "x": 78,
+   "y": 222,
+   "size": 11,
+   "color": "#1565C0",
+   "weight": 700
+  },
+  {
+   "text": "Glycoprotein",
+   "x": 226,
+   "y": 182,
+   "size": 11,
+   "color": "#E65100",
+   "weight": 700
+  },
+  {
+   "text": "(cell ID card)",
+   "x": 226,
+   "y": 193,
+   "size": 9.5,
+   "color": "#E65100",
+   "weight": 400
+  },
+  {
+   "text": "Glycolipid",
+   "x": 240,
+   "y": 214,
+   "size": 11,
+   "color": "#2E7D32",
+   "weight": 700
+  },
+  {
+   "text": "Integrin",
+   "x": 100,
+   "y": 386,
+   "size": 11,
+   "color": "#1565C0",
+   "weight": 700
+  },
+  {
+   "text": "(attachment protein)",
+   "x": 100,
+   "y": 398,
+   "size": 10,
+   "color": "#1565C0",
+   "weight": 400
+  },
+  {
+   "text": "Microfilaments (actin)",
+   "x": 100,
+   "y": 432,
+   "size": 11,
+   "color": "#C62828",
+   "weight": 700
+  },
+  {
+   "text": "(cytoskeleton)",
+   "x": 100,
+   "y": 444,
+   "size": 10,
+   "color": "#C62828",
+   "weight": 400
+  },
+  {
+   "text": "Cholesterol",
+   "x": 205,
+   "y": 386,
+   "size": 11,
+   "color": "#B8860B",
+   "weight": 700
+  },
+  {
+   "text": "Peripheral protein",
+   "x": 309,
+   "y": 420,
+   "size": 11,
+   "color": "#D84315",
+   "weight": 700
+  },
+  {
+   "text": "Enzyme",
+   "x": 374,
+   "y": 214,
+   "size": 11,
+   "color": "#7B1FA2",
+   "weight": 700
+  },
+  {
+   "text": "(integral protein)",
+   "x": 374,
+   "y": 226,
+   "size": 10,
+   "color": "#7B1FA2",
+   "weight": 400
+  },
+  {
+   "text": "Phospholipid",
+   "x": 940,
+   "y": 404,
+   "size": 11,
+   "color": "#AD1457",
+   "weight": 700
+  },
+  {
+   "text": "(hydrophilic head,",
+   "x": 940,
+   "y": 416,
+   "size": 9.5,
+   "color": "#AD1457",
+   "weight": 400
+  },
+  {
+   "text": "hydrophobic tails)",
+   "x": 940,
+   "y": 427,
+   "size": 9.5,
+   "color": "#AD1457",
+   "weight": 400
+  },
+  {
+   "text": "Substrate",
+   "x": 343,
+   "y": 396,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "Products",
+   "x": 410,
+   "y": 396,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "SIMPLE",
+   "x": 472,
+   "y": 92,
+   "size": 11.5,
+   "color": "#00796B",
+   "weight": 800
+  },
+  {
+   "text": "DIFFUSION",
+   "x": 472,
+   "y": 104,
+   "size": 11.5,
+   "color": "#00796B",
+   "weight": 800
+  },
+  {
+   "text": "O\u2082 through bilayer",
+   "x": 472,
+   "y": 117,
+   "size": 10.5,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "FACILITATED",
+   "x": 563,
+   "y": 92,
+   "size": 11.5,
+   "color": "#00796B",
+   "weight": 800
+  },
+  {
+   "text": "DIFFUSION",
+   "x": 563,
+   "y": 104,
+   "size": 11.5,
+   "color": "#00796B",
+   "weight": 800
+  },
+  {
+   "text": "K\u207a channel",
+   "x": 563,
+   "y": 117,
+   "size": 10.5,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "ACTIVE",
+   "x": 666,
+   "y": 92,
+   "size": 11.5,
+   "color": "#6A1B9A",
+   "weight": 800
+  },
+  {
+   "text": "TRANSPORT #1",
+   "x": 666,
+   "y": 104,
+   "size": 11.5,
+   "color": "#6A1B9A",
+   "weight": 800
+  },
+  {
+   "text": "Na\u207a/K\u207a pump",
+   "x": 666,
+   "y": 117,
+   "size": 10.5,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "COTRANSPORT",
+   "x": 778,
+   "y": 92,
+   "size": 11.5,
+   "color": "#2E7D32",
+   "weight": 800
+  },
+  {
+   "text": "(secondary active",
+   "x": 778,
+   "y": 103.5,
+   "size": 9.5,
+   "color": "#2E7D32",
+   "weight": 700
+  },
+  {
+   "text": "transport)",
+   "x": 778,
+   "y": 114,
+   "size": 9.5,
+   "color": "#2E7D32",
+   "weight": 700
+  },
+  {
+   "text": "Na\u207a/glucose",
+   "x": 778,
+   "y": 127,
+   "size": 10.5,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "ACTIVE",
+   "x": 884,
+   "y": 92,
+   "size": 11.5,
+   "color": "#6A1B9A",
+   "weight": 800
+  },
+  {
+   "text": "TRANSPORT #2",
+   "x": 884,
+   "y": 104,
+   "size": 11.5,
+   "color": "#6A1B9A",
+   "weight": 800
+  },
+  {
+   "text": "Proton (H\u207a) pump",
+   "x": 884,
+   "y": 117,
+   "size": 10.5,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "Na\u207a out, K\u207a in",
+   "x": 666,
+   "y": 129,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 600
+  },
+  {
+   "text": "No energy used",
+   "x": 472,
+   "y": 441,
+   "size": 10,
+   "color": "#00796B",
+   "weight": 700
+  },
+  {
+   "text": "(passive)",
+   "x": 472,
+   "y": 452,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "No energy used",
+   "x": 563,
+   "y": 441,
+   "size": 10,
+   "color": "#00796B",
+   "weight": 700
+  },
+  {
+   "text": "(passive)",
+   "x": 563,
+   "y": 452,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "ATP",
+   "x": 628,
+   "y": 360,
+   "size": 10,
+   "color": "#BF360C",
+   "weight": 800
+  },
+  {
+   "text": "\u2193",
+   "x": 628,
+   "y": 370,
+   "size": 9,
+   "color": "#BF360C",
+   "weight": 700
+  },
+  {
+   "text": "ADP",
+   "x": 628,
+   "y": 380,
+   "size": 9.5,
+   "color": "#BF360C",
+   "weight": 700
+  },
+  {
+   "text": "Energy: ATP",
+   "x": 666,
+   "y": 441,
+   "size": 10,
+   "color": "#6A1B9A",
+   "weight": 700
+  },
+  {
+   "text": "(against gradients)",
+   "x": 666,
+   "y": 452,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "Energy: Na\u207a gradient",
+   "x": 778,
+   "y": 441,
+   "size": 10,
+   "color": "#2E7D32",
+   "weight": 700
+  },
+  {
+   "text": "made by the Na\u207a/K\u207a pump",
+   "x": 778,
+   "y": 452,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "(ATP used indirectly)",
+   "x": 778,
+   "y": 463,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "ATP",
+   "x": 920,
+   "y": 360,
+   "size": 10,
+   "color": "#BF360C",
+   "weight": 800
+  },
+  {
+   "text": "\u2193",
+   "x": 920,
+   "y": 370,
+   "size": 9,
+   "color": "#BF360C",
+   "weight": 700
+  },
+  {
+   "text": "ADP",
+   "x": 920,
+   "y": 380,
+   "size": 9.5,
+   "color": "#BF360C",
+   "weight": 700
+  },
+  {
+   "text": "Energy: ATP",
+   "x": 884,
+   "y": 441,
+   "size": 10,
+   "color": "#6A1B9A",
+   "weight": 700
+  },
+  {
+   "text": "(against gradient)",
+   "x": 884,
+   "y": 452,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "PHAGOCYTOSIS",
+   "x": 100,
+   "y": 480,
+   "size": 12.5,
+   "color": "#AD1457",
+   "weight": 800
+  },
+  {
+   "text": "(\u201ccell eating\u201d: a bacterium)",
+   "x": 100,
+   "y": 492,
+   "size": 10,
+   "color": "#AD1457",
+   "weight": 400
+  },
+  {
+   "text": "Pseudopods",
+   "x": 156,
+   "y": 732,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "wrap around",
+   "x": 156,
+   "y": 743,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "the bacterium",
+   "x": 156,
+   "y": 754,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "Bacterium",
+   "x": 215,
+   "y": 796,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "Food",
+   "x": 135,
+   "y": 598,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "vacuole",
+   "x": 135,
+   "y": 609,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "Lysosome fuses with",
+   "x": 342,
+   "y": 489,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "food vacuole; hydrolytic",
+   "x": 342,
+   "y": 500,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "enzymes are released",
+   "x": 342,
+   "y": 511,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "Digestion:",
+   "x": 296,
+   "y": 640,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "nutrients diffuse",
+   "x": 296,
+   "y": 651,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "into cytoplasm",
+   "x": 296,
+   "y": 662,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "EXOCYTOSIS #2:",
+   "x": 395,
+   "y": 735,
+   "size": 10.5,
+   "color": "#AD1457",
+   "weight": 800
+  },
+  {
+   "text": "undigested waste",
+   "x": 395,
+   "y": 747,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "released outside",
+   "x": 395,
+   "y": 758,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "PINOCYTOSIS",
+   "x": 450,
+   "y": 548,
+   "size": 12.5,
+   "color": "#AD1457",
+   "weight": 800
+  },
+  {
+   "text": "(\u201ccell drinking\u201d)",
+   "x": 450,
+   "y": 560,
+   "size": 10,
+   "color": "#AD1457",
+   "weight": 400
+  },
+  {
+   "text": "Extracellular fluid",
+   "x": 509,
+   "y": 760,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "(water + dissolved solutes)",
+   "x": 509,
+   "y": 771,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 400
+  },
+  {
+   "text": "RECEPTOR-MEDIATED",
+   "x": 612,
+   "y": 500,
+   "size": 12.5,
+   "color": "#AD1457",
+   "weight": 800
+  },
+  {
+   "text": "ENDOCYTOSIS (LDL)",
+   "x": 612,
+   "y": 513,
+   "size": 12.5,
+   "color": "#AD1457",
+   "weight": 800
+  },
+  {
+   "text": "Clathrin-coated",
+   "x": 772,
+   "y": 561,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "vesicle",
+   "x": 772,
+   "y": 572,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "Clathrin coat",
+   "x": 602,
+   "y": 611,
+   "size": 10,
+   "color": "#E65100",
+   "weight": 700
+  },
+  {
+   "text": "(cytoplasm side)",
+   "x": 602,
+   "y": 622,
+   "size": 9.5,
+   "color": "#E65100",
+   "weight": 400
+  },
+  {
+   "text": "LDL (carries",
+   "x": 636,
+   "y": 742,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "cholesterol)",
+   "x": 636,
+   "y": 753,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "LDL receptor",
+   "x": 690,
+   "y": 722,
+   "size": 10,
+   "color": "#3949AB",
+   "weight": 700
+  },
+  {
+   "text": "EXOCYTOSIS #1",
+   "x": 1018,
+   "y": 478,
+   "size": 12.5,
+   "color": "#AD1457",
+   "weight": 800
+  },
+  {
+   "text": "(hormones from Golgi)",
+   "x": 1018,
+   "y": 490,
+   "size": 10,
+   "color": "#AD1457",
+   "weight": 400
+  },
+  {
+   "text": "Golgi",
+   "x": 944,
+   "y": 520,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "apparatus",
+   "x": 944,
+   "y": 531,
+   "size": 10,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "Secretory",
+   "x": 892,
+   "y": 620,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "vesicle",
+   "x": 892,
+   "y": 631,
+   "size": 9.5,
+   "color": "#263238",
+   "weight": 700
+  },
+  {
+   "text": "Hormones (proteins)",
+   "x": 917,
+   "y": 760,
+   "size": 10,
+   "color": "#D81B60",
+   "weight": 700
+  },
+  {
+   "text": "released outside",
+   "x": 917,
+   "y": 771,
+   "size": 10,
+   "color": "#D81B60",
+   "weight": 700
+  }
+ ],
+ "particles": [
+  [
+   "o2",
+   507.8,
+   194.2
+  ],
+  [
+   "o2",
+   447.1,
+   198.0
+  ],
+  [
+   "o2",
+   483.7,
+   221.0
+  ],
+  [
+   "o2",
+   439.4,
+   222.4
+  ],
+  [
+   "o2",
+   488.9,
+   159.4
+  ],
+  [
+   "o2",
+   512.5,
+   235.1
+  ],
+  [
+   "o2",
+   447.6,
+   175.8
+  ],
+  [
+   "o2",
+   500.9,
+   214.0
+  ],
+  [
+   "o2",
+   455.7,
+   161.8
+  ],
+  [
+   "o2",
+   448,
+   372
+  ],
+  [
+   "o2",
+   500,
+   386
+  ],
+  [
+   "o2",
+   472,
+   291.5
+  ],
+  [
+   "k",
+   530,
+   222
+  ],
+  [
+   "k",
+   598,
+   184
+  ],
+  [
+   "k",
+   533.7,
+   378.3
+  ],
+  [
+   "k",
+   583.2,
+   370.5
+  ],
+  [
+   "k",
+   521.2,
+   364.3
+  ],
+  [
+   "k",
+   538.9,
+   349.9
+  ],
+  [
+   "k",
+   597.8,
+   380.5
+  ],
+  [
+   "k",
+   547.4,
+   369.3
+  ],
+  [
+   "k",
+   587.7,
+   358.3
+  ],
+  [
+   "k",
+   563,
+   291.5
+  ],
+  [
+   "na",
+   616.7,
+   175.9
+  ],
+  [
+   "na",
+   700.4,
+   215.9
+  ],
+  [
+   "na",
+   665.0,
+   221.0
+  ],
+  [
+   "na",
+   731.8,
+   199.3
+  ],
+  [
+   "na",
+   704.8,
+   237.7
+  ],
+  [
+   "na",
+   634.5,
+   169.4
+  ],
+  [
+   "na",
+   660.3,
+   183.2
+  ],
+  [
+   "na",
+   692.2,
+   182.3
+  ],
+  [
+   "na",
+   620.7,
+   219.5
+  ],
+  [
+   "na",
+   755.0,
+   183.3
+  ],
+  [
+   "na",
+   623.1,
+   191.5
+  ],
+  [
+   "na",
+   756.3,
+   226.5
+  ],
+  [
+   "na",
+   751.2,
+   206.2
+  ],
+  [
+   "na",
+   832.2,
+   181.8
+  ],
+  [
+   "na",
+   714.1,
+   224.0
+  ],
+  [
+   "k",
+   712,
+   188
+  ],
+  [
+   "k",
+   689.1,
+   358.2
+  ],
+  [
+   "k",
+   698.9,
+   378.4
+  ],
+  [
+   "k",
+   712.0,
+   367.3
+  ],
+  [
+   "k",
+   671.7,
+   386.1
+  ],
+  [
+   "k",
+   704.4,
+   391.1
+  ],
+  [
+   "k",
+   671.1,
+   353.9
+  ],
+  [
+   "na",
+   700,
+   360
+  ],
+  [
+   "na",
+   652,
+   272
+  ],
+  [
+   "na",
+   652,
+   287
+  ],
+  [
+   "na",
+   652,
+   302
+  ],
+  [
+   "k",
+   680,
+   279
+  ],
+  [
+   "k",
+   680,
+   297
+  ],
+  [
+   "na",
+   738,
+   384
+  ],
+  [
+   "na",
+   812,
+   360
+  ],
+  [
+   "glucose",
+   812,
+   214
+  ],
+  [
+   "glucose",
+   829.6,
+   365.5
+  ],
+  [
+   "glucose",
+   806.9,
+   375.7
+  ],
+  [
+   "glucose",
+   833.0,
+   385.5
+  ],
+  [
+   "glucose",
+   775.7,
+   359.4
+  ],
+  [
+   "glucose",
+   798.9,
+   356.8
+  ],
+  [
+   "glucose",
+   801.9,
+   390.2
+  ],
+  [
+   "na",
+   767,
+   282
+  ],
+  [
+   "glucose",
+   789,
+   298
+  ],
+  [
+   "h",
+   912.9,
+   182.3
+  ],
+  [
+   "h",
+   868.9,
+   212.8
+  ],
+  [
+   "h",
+   855.1,
+   207.8
+  ],
+  [
+   "h",
+   920.4,
+   212.5
+  ],
+  [
+   "h",
+   897.1,
+   183.7
+  ],
+  [
+   "h",
+   866.3,
+   236.4
+  ],
+  [
+   "h",
+   895.6,
+   218.4
+  ],
+  [
+   "h",
+   896.5,
+   170.7
+  ],
+  [
+   "h",
+   845.3,
+   186.1
+  ],
+  [
+   "h",
+   852,
+   384
+  ],
+  [
+   "h",
+   884,
+   291.5
+  ],
+  [
+   "waste",
+   344,
+   608
+  ],
+  [
+   "waste",
+   358,
+   619
+  ],
+  [
+   "waste",
+   351,
+   623
+  ],
+  [
+   "waste",
+   390,
+   664.3
+  ],
+  [
+   "waste",
+   400,
+   671.3
+  ],
+  [
+   "waste",
+   399,
+   706
+  ],
+  [
+   "waste",
+   389,
+   714
+  ],
+  [
+   "hormone",
+   914,
+   563
+  ],
+  [
+   "hormone",
+   922,
+   568
+  ],
+  [
+   "hormone",
+   917,
+   571
+  ],
+  [
+   "hormone",
+   868,
+   617
+  ],
+  [
+   "hormone",
+   876,
+   622
+  ],
+  [
+   "hormone",
+   871,
+   625
+  ],
+  [
+   "hormone",
+   877,
+   615
+  ],
+  [
+   "hormone",
+   838,
+   667.3
+  ],
+  [
+   "hormone",
+   846,
+   672.3
+  ],
+  [
+   "hormone",
+   841,
+   675.3
+  ],
+  [
+   "hormone",
+   839,
+   702
+  ],
+  [
+   "hormone",
+   847,
+   711
+  ],
+  [
+   "hormone",
+   901,
+   705
+  ],
+  [
+   "hormone",
+   913,
+   717
+  ],
+  [
+   "hormone",
+   926,
+   703
+  ],
+  [
+   "hormone",
+   934,
+   719
+  ],
+  [
+   "hormone",
+   918,
+   730
+  ],
+  [
+   "hormone",
+   902,
+   725
+  ]
+ ],
+ "clathrin": [
+  [
+   607.69,
+   688.81,
+   -0.432,
+   -0.902
+  ],
+  [
+   614.28,
+   683.14,
+   -0.798,
+   -0.602
+  ],
+  [
+   619.5,
+   675.0,
+   -0.857,
+   -0.515
+  ],
+  [
+   625.15,
+   666.86,
+   -0.743,
+   -0.669
+  ],
+  [
+   633.04,
+   661.19,
+   -0.337,
+   -0.942
+  ],
+  [
+   651.3,
+   663.56,
+   0.604,
+   -0.797
+  ],
+  [
+   657.84,
+   670.78,
+   0.831,
+   -0.556
+  ],
+  [
+   663.05,
+   679.22,
+   0.847,
+   -0.532
+  ],
+  [
+   668.73,
+   686.44,
+   0.653,
+   -0.757
+  ],
+  [
+   743.1,
+   681.31,
+   0.559,
+   0.829
+  ],
+  [
+   750.12,
+   674.41,
+   0.819,
+   0.574
+  ],
+  [
+   754.2,
+   665.46,
+   0.97,
+   0.242
+  ],
+  [
+   754.8,
+   655.63,
+   0.993,
+   -0.122
+  ],
+  [
+   751.84,
+   646.25,
+   0.883,
+   -0.469
+  ],
+  [
+   745.71,
+   638.55,
+   0.656,
+   -0.755
+  ],
+  [
+   737.23,
+   633.55,
+   0.342,
+   -0.94
+  ],
+  [
+   727.53,
+   631.93,
+   -0.017,
+   -1.0
+  ],
+  [
+   717.89,
+   633.89,
+   -0.375,
+   -0.927
+  ],
+  [
+   709.59,
+   639.18,
+   -0.682,
+   -0.731
+  ],
+  [
+   703.73,
+   647.09,
+   -0.899,
+   -0.438
+  ],
+  [
+   701.1,
+   656.57,
+   -0.996,
+   -0.087
+  ],
+  [
+   702.05,
+   666.37,
+   -0.961,
+   0.276
+  ],
+  [
+   706.44,
+   675.17,
+   -0.799,
+   0.602
+  ],
+  [
+   755.0,
+   576.0,
+   1.0,
+   -0.0
+  ],
+  [
+   753.37,
+   566.77,
+   0.94,
+   -0.342
+  ],
+  [
+   748.68,
+   558.64,
+   0.766,
+   -0.643
+  ],
+  [
+   741.5,
+   552.62,
+   0.5,
+   -0.866
+  ],
+  [
+   732.69,
+   549.41,
+   0.174,
+   -0.985
+  ],
+  [
+   723.31,
+   549.41,
+   -0.174,
+   -0.985
+  ],
+  [
+   714.5,
+   552.62,
+   -0.5,
+   -0.866
+  ],
+  [
+   707.32,
+   558.64,
+   -0.766,
+   -0.643
+  ],
+  [
+   702.63,
+   566.77,
+   -0.94,
+   -0.342
+  ],
+  [
+   701.0,
+   576.0,
+   -1.0,
+   -0.0
+  ],
+  [
+   702.63,
+   585.23,
+   -0.94,
+   0.342
+  ],
+  [
+   707.32,
+   593.36,
+   -0.766,
+   0.643
+  ],
+  [
+   714.5,
+   599.38,
+   -0.5,
+   0.866
+  ],
+  [
+   723.31,
+   602.59,
+   -0.174,
+   0.985
+  ],
+  [
+   732.69,
+   602.59,
+   0.174,
+   0.985
+  ],
+  [
+   741.5,
+   599.38,
+   0.5,
+   0.866
+  ],
+  [
+   748.68,
+   593.36,
+   0.766,
+   0.643
+  ],
+  [
+   753.37,
+   585.23,
+   0.94,
+   0.342
+  ]
+ ],
+ "receptors": [
+  [
+   616.95,
+   679.22,
+   0.85,
+   0.527
+  ],
+  [
+   633.04,
+   661.19,
+   0.337,
+   0.942
+  ],
+  [
+   660.5,
+   675.0,
+   -0.858,
+   0.514
+  ],
+  [
+   753.37,
+   649.69,
+   -0.94,
+   0.342
+  ],
+  [
+   728.0,
+   631.92,
+   -0.0,
+   1.0
+  ],
+  [
+   702.63,
+   649.69,
+   0.94,
+   0.342
+  ],
+  [
+   751.38,
+   562.5,
+   -0.866,
+   0.5
+  ],
+  [
+   704.62,
+   562.5,
+   0.866,
+   0.5
+  ],
+  [
+   728.0,
+   603.0,
+   0.0,
+   -1.0
+  ]
+ ],
+ "bottom_features": {
+  "phago_cup": {
+   "inner_x": [
+    182,
+    248
+   ],
+   "inner_bottom": 750,
+   "cup_top": 710,
+   "tips_x": [
+    206,
+    224
+   ],
+   "outer_bottom": 768
+  },
+  "waste": [
+   395,
+   668.2967069115099
+  ],
+  "pino2": [
+   545,
+   665.2010101267766
+  ],
+  "rme2": [
+   728,
+   658.9231903791894
+  ],
+  "exo3": [
+   842,
+   671.2522729151325
+  ]
+ },
+ "slots": [
+  140.5,
+  184.5,
+  231.75,
+  255.44,
+  269.88,
+  284.31,
+  298.75,
+  313.19,
+  327.62,
+  342.06,
+  402.11,
+  416.72,
+  431.33,
+  445.94,
+  460.56,
+  475.17,
+  489.78,
+  504.39,
+  528.75,
+  595.25,
+  611.0,
+  626.75,
+  703.7,
+  717.9,
+  732.1,
+  746.3,
+  810.1,
+  824.7,
+  839.3,
+  853.9,
+  913.83,
+  928.17,
+  948.83,
+  963.17
+ ],
+ "enzyme": {
+  "substrate": "triangle",
+  "products": [
+   "circle",
+   "square"
+  ],
+  "side": "inside (cytoplasm)",
+  "active_site_bottom": 342
+ },
+ "phosphates": [
+  {
+   "x": 640,
+   "y": 336
+  },
+  {
+   "x": 902,
+   "y": 336
+  }
+ ],
+ "atp": [
+  {
+   "x": 628,
+   "y": 356,
+   "side": "inside"
+  },
+  {
+   "x": 920,
+   "y": 356,
+   "side": "inside"
+  }
+ ],
+ "steps": {
+  "phago": [
+   730,
+   600,
+   525,
+   612,
+   668.2967069115099
+  ],
+  "pino": [
+   668,
+   665.2010101267766,
+   598
+  ],
+  "rme": [
+   660,
+   658.9231903791894,
+   576
+  ],
+  "exo1": [
+   566,
+   620,
+   671.2522729151325,
+   690
+  ]
+ },
+ "constants": {
+  "OUT_SURF": 260.5,
+  "IN_SURF": 322.5,
+  "MID": 291.5,
+  "YO": 267,
+  "YI": 316.0,
+  "R_HEAD": 6.5,
+  "TAIL_OUT": [
+   273.5,
+   290.5
+  ],
+  "TAIL_IN": [
+   292.5,
+   309.5
+  ],
+  "YB": 690,
+  "XL": 70,
+  "XR": 1030,
+  "X_BIL": [
+   130,
+   970
+  ],
+  "Y_TAPER": 351.5,
+  "DL_W": 10
+ },
+ "palette": {
+  "ink": "#263238",
+  "outside": "#E3F2FD",
+  "cyto": "#FFF6E5",
+  "band": "#FFE08A",
+  "tails": "#FFF3C4",
+  "head": "#F48FB1",
+  "tail": "#6D6D6D",
+  "chol": "#FFC107",
+  "carb": "#43A047",
+  "glycoprot": "#FFCC80",
+  "periph": "#FFAB91",
+  "enzyme": "#CE93D8",
+  "integrin": "#90CAF9",
+  "collagen": "#8D6E63",
+  "actin": "#E53935",
+  "channel": "#80DEEA",
+  "nakpump": "#B39DDB",
+  "hpump": "#9FA8DA",
+  "cotrans": "#A5D6A7",
+  "na": "#1E63D6",
+  "k": "#8E24AA",
+  "h": "#00897B",
+  "o2": "#E53935",
+  "glucose": "#FB8C00",
+  "substrate": "#FFCA28",
+  "product1": "#FB8C00",
+  "product2": "#66BB6A",
+  "fibronectin": "#1E88E5",
+  "phosphate": "#FFEB3B",
+  "atp": "#BF360C",
+  "bacteria": "#7CB342",
+  "lyso": "#E1BEE7",
+  "enz_dot": "#C2185B",
+  "nutrient": "#2E7D32",
+  "waste": "#6D4C41",
+  "fluid": "#29B6F6",
+  "ldl": "#FFD54F",
+  "receptor": "#3949AB",
+  "clathrin": "#EF6C00",
+  "golgi": "#F8BBD0",
+  "hormone": "#D81B60",
+  "badge": "#37474F",
+  "hdr_passive": "#00796B",
+  "hdr_active": "#6A1B9A",
+  "hdr_co": "#2E7D32",
+  "hdr_bulk": "#AD1457",
+  "out_lbl": "#0277BD",
+  "in_lbl": "#E65100"
+ }
+}
